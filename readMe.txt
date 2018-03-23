@@ -1,0 +1,1 @@
+This project is in order to build a website to record my life and study.
